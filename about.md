@@ -1,4 +1,4 @@
-# CHIMERA Name
+# MAE(魅)
 
 This text appears in the overlay opened by the `ABOUT` label. Click `X` to close and return to the 3D view.
 
