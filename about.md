@@ -1,13 +1,7 @@
 # MAE(魅)
 
-This text appears in the overlay opened by the `ABOUT` label. Click `X` to close and return to the 3D view.
+**“Mae (魅)”** is a being whose name derives from a Chinese character meaning to bewitch or enthrall a person’s soul. Mae does not possess a fixed form. It is said to have the head of a chestnut burr, the mouth of a human, the body of grass roots, and the lower half of an earthworm, yet the boundaries between these parts are never clear.
 
-Placeholder text for layout testing: Chimera research unfolds across fragmented memories, synthetic anatomies, and speculative rituals that merge archival traces with generated futures. This project explores hybrid embodiment through digital sculpture, moving between mythological residue and machine perception. Each form behaves like a temporary host: unstable, layered, and responsive to context. The narrative remains intentionally open, inviting interpretation through ambiguity and transformation.
+This is because Mae can freely alter and reshape its body. It stretches, blends, and distorts its own tissues, preventing others from fully recognizing its true appearance. Through its human mouth, Mae is also capable of mimicking human voices in order to lure people closer.
 
-
-
-PS: You can use Markdown formatting, for example:
-
-- Bullet lists
-- **Bold text**
-- *Italic text*
+No one has ever clearly witnessed Mae’s true form. This is not only because it continuously changes its appearance, but because it blurs the very perception of those who look upon it, rendering its existence indistinct and uncertain.
